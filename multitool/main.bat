@@ -13,7 +13,7 @@ echo.
 echo.
 echo [38;2;73;152;255m        ╔═(1) READ ME![0m  
 echo [38;2;73;152;255m        ║[0m  
-echo [38;2;73;152;255m        ╠══(2) Access (a copy of) Crushes List.txt[0m  
+echo [38;2;73;152;255m        ╠══(2) idk(make it run anything)[0m  
 echo [38;2;73;152;255m        ║[0m  
 echo [38;2;73;152;255m        ╠═══(3) idk(make it run anything)[0m  
 echo [38;2;73;152;255m        ║[0m  
@@ -23,7 +23,7 @@ echo [38;2;73;152;255m        ╚╦═══(5) idk(make it run anything)[0m
 echo [38;2;73;152;255m         ║[0m  
 set /p input=.%BS% [38;2;73;152;255m        ╚═══[INPUT HERE]═^>[0m  
 if /I %input% EQU 1 start readme.txt
-if /I %input% EQU 2 start CRUSHESLIST(copy).txt
+if /I %input% EQU 2 start test.png
 if /I %input% EQU 3 start test.png
 if /I %input% EQU 4 start test.png
 if /I %input% EQU 5 start test.png
