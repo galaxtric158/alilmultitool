@@ -1,5 +1,5 @@
 # ALilMultitool
-just my little .bat file multitool i made 
+just my little batch (.bat) file multitool i made 
 ### WHY YOU SHOULD INSTALL!! !! !111
 - its funny ig
 - its to support broke people (galax)
