@@ -1,3 +1,5 @@
+:: library for cool gradient colors wowo
+
 @echo off
 cls
 echo [101;93m STYLES [0m
