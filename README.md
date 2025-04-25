@@ -13,5 +13,7 @@ just my little batch (.bat) file multitool i made
 
 > [!TIP]
 > if /I %input% EQU 4 start test.png
-> is to set up the input.
-> change test.png to your desiered file/file path
+> </br> is to set up the input.
+> </br> change test.png to your desiered file/file path
+
+</br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sansation&letterSpacing=close&duration=3000&pause=1000&width=435&lines=Created+By+Galax!)](https://git.io/typing-svg)
